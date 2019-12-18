@@ -1,3 +1,5 @@
-README.md file for SE362_Project. Colloborators: Anıl Çelik, Deniz Kıratlı, Rıza Erdi Bahar, Berfin Polat
+README.md file for SE362_Project. 
 
-Project Topic: *******
+Colloborators: Anıl Çelik, Deniz Kıratlı, Rıza Erdi Bahar, Berfin Polat
+
+Project Topic: Client & Server side communication program
